@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Brent! <a>Aspiring Security Analyst</a></h1>
 
-<!--
-**CyBertlm/CyBertlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Lab-made SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+<h2> Blog </h2>
+ - [Creating Active Directory] (https://blog address)
+ 
+
+
+
